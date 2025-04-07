@@ -1,0 +1,8 @@
+format: jb-book
+root: intro.ipynb
+
+
+
+chapters:    # (need to edit these according to plan)
+
+- file: contact.ipynb
